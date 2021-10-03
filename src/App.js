@@ -21,7 +21,7 @@ import './App.css';
 function App() {
   const { warningMessage } = useContext(UserContext);
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={ process.env.PUBLIC_URL }>
       {warningMessage && <WarningMessage />}
       <Switch>
         <Route exact path="/" component={ Login } />
