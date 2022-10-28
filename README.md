@@ -5,6 +5,8 @@ Esse projeto foi realizado em grupo, e teve como objetivo colocar em prática to
 Aqui você vai encontrar alguns detalhes de como o projeto foi desenvolvido, bem como instruções para acessar e baixar o projeto localmente.
 Obrigado por acessar. 
 
+<a href="https://huggoparcelly.github.io/project-recipes" target="_blank">LINK</a> para acessar o projeto.
+
 ---
 
 # Sumário
